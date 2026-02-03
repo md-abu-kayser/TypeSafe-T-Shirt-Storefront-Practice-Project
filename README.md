@@ -114,7 +114,7 @@ Other useful scripts: `npm run type-check`, `npm run lint` - see [package.json](
 
 ---
 
-### Contact and Maintainer
+### Contact & Maintainer
 
 **Maintainer:** [md-abu-kayser](https://github.com/md-abu-kayser)  
 **Name:** Md Abu Kayser - Full-Stack Engineer
