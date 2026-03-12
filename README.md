@@ -29,6 +29,20 @@
 
 [![Vite](https://img.shields.io/badge/Vite-646cff?logo=vite&logoColor=white)](https://vite.dev/)
 
+## Plain docs links
+
+- Tailwind CSS docs: [https://tailwindcss.com/docs/](https://tailwindcss.com/docs/)
+- PostCSS docs / postcss.config: [https://postcss.org/](https://postcss.org/)
+- JavaScript (MDN) docs: [https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- ECMAScript (spec, ECMA-262) docs: [https://www.ecma-international.org/publications-and-standards/standards/ecma-262/](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
+- TypeScript docs: [https://www.typescriptlang.org/docs/](https://www.typescriptlang.org/docs/)
+- Node.js docs: [https://nodejs.org/](https://nodejs.org/)
+- React docs: [https://react.dev/](https://react.dev/)
+- ESLint docs: [https://eslint.org/docs/latest/](https://eslint.org/docs/latest/)
+- Prettier docs: [https://prettier.io/docs/](https://prettier.io/docs/)
+- Vite docs: [https://vite.dev/](https://vite.dev/)
+
+---
 
 A small, production-ready React + Vite storefront demonstrating component architecture, typed state management with TypeScript, Tailwind CSS styling, and client-side routing. This project is ideal as a portfolio piece or a starter template for e-commerce UI experiments.
 
