@@ -1,4 +1,4 @@
-# TypeSafe T-Shirt Storefront | Practice Project
+# TypeSafe T-Shirt Storefront - React + TypeScript + Tailwind
 
 A small, production-ready React + Vite storefront demonstrating component architecture, typed state management with TypeScript, Tailwind CSS styling, and client-side routing. This project is ideal as a portfolio piece or a starter template for e-commerce UI experiments.
 
